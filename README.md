@@ -11,12 +11,14 @@ We performed connectome-wide analyses using resting-state functional MRI data fr
 Neuropsychiatric CNVs showed global shifts of mean connectivity. The effect size of CNVs on relative connectivity (adjusted for the mean) was correlated with the known level of neuropsychiatric risk conferred by CNVs. Individuals with idiopathic schizophrenia and ASD had similarities in connectivity with neuropsychiatric CNVs. We reported a linear relationship between connectivity and intolerance to haploinsufficiency measured for all genes encompassed by CNVs across 18 loci. This profile involved the thalamus, the basal ganglia, somatomotor and frontoparietal networks and was correlated with lower general intelligence and higher autism severity scores. An exploratory factor analysis confirmed the contribution of these regions to three latent components shared across CNVs and neuropsychiatric disorders.
 We posit that deleting genes intolerant to haploinsufficiency reorganize connectivity along general dimensions irrespective of where deletions occur in the genome. This haploinsufficiency brain signature opens new avenues to understand polygenicity in psychiatric conditions and the pleiotropic effect of CNVs on cognition and risk for neuropsychiatric disorders.
 
-### Notebooks
+### Notebooks and scripts
 
 #### Aim 1 Characterize the impact of gene dosage on connectivity for CNVs at eight genomic loci
 
 Connectome Wide Association Study: Linear model contrasting CNV carriers with controls, adjusting models for mean connectivity
 ##### Scripts
+to_preprocess_restingstate_fMRI_data.m
+to_generate_connectomes.m
 Publication_Generate_FC_alteration_mC.md
 Publication_Results_FC_alteration_mC_brainmap.md
 
