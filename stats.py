@@ -1,4 +1,4 @@
-# Sebastian Urchs
+# Sebastian Urchs Clara Moreau
 
 import sys
 import time
