@@ -1,6 +1,9 @@
 ## The general impact of haploinsufficiency on brain connectivity underlies the pleiotropic effect of neuropsychiatric CNVs
 
 #### Authors: Moreau Clara, Huguet Guillaume, Urchs Sebastian, et cie
+clara.moreau@umontreal.ca
+sebastian.urchs@mail.mcgill.ca 
+
 #### Last authors: Bellec Pierre, and Jacquemont Sebastien 
 
 ### One sentence summary: Neuropsychiatric CNVs across the genome reorganize brain connectivity architecture along dominant patterns contributing to complex idiopathic conditions.
