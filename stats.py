@@ -1,3 +1,5 @@
+# Sebastian Urchs
+
 import sys
 import time
 import warnings
