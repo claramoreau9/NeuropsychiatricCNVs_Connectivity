@@ -1,4 +1,7 @@
-% Moreau clara Urchs Sebastian
+% Authors: Moreau clara Urchs Sebastian
+% 2019 Montreal Pierre Bellec lab CRIUGM, Jacquemont Sebastien lan Ste Justine hospital
+% More information about NIAK are available here https://niak.simexp-lab.org/build/html/CONNECTOME.html
+% More information about MIST parcellation https://simexp.github.io/multiscale_dashboard/index.html
 
 clear;
 
