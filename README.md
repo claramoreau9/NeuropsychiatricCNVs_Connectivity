@@ -20,20 +20,21 @@ Neuropsychiatric CNVs showed global shifts of mean connectivity. The effect size
 
 Connectome Wide Association Study: Linear model contrasting CNV carriers with controls, adjusting models for mean connectivity </p>
 ##### Scripts
-to_preprocess_restingstate_fMRI_data.m </p>
-to_generate_connectomes.m </p>
-Publication_Generate_FC_alteration_mC.md </p>
-Publication_Results_FC_alteration_mC_brainmap.md </p>
+[to_preprocess_restingstate_fMRI_data.m](https://github.com/claramoreau9/NeuropsychiatricCNVs_Connectivity/blob/master/to_preprocess_restingstate_fMRI_data.m) </p>
+[to_generate_connectomes.m](https://github.com/claramoreau9/NeuropsychiatricCNVs_Connectivity/blob/master/to_generate_connectomes.m) </p>
+[Publication_Generate_FC_alteration_mC.md](https://github.com/claramoreau9/NeuropsychiatricCNVs_Connectivity/blob/master/Publication_Generate_FC_alteration_mC.md)</p>
+[Publication_Results_FC_alteration_mC_brainmap.md](https://github.com/claramoreau9/NeuropsychiatricCNVs_Connectivity/blob/master/Publication_Results_FC_alteration_mC_brainmap.md)</p>
+
 
 #### Aim 2 Test similarities between whole-brain connectomes of CNVs and idiopathic psychiatric conditions
 Pearson correlation between beta maps obtained from each CWAS and individual connectomes of either ASD, SZ, ADHD cases or controls 
 ##### Scripts
-Publication_similarities_analyses.md
+[Publication_similarities_analyses.md](https://github.com/claramoreau9/NeuropsychiatricCNVs_Connectivity/blob/master/Publication_similarities_analyses.md) </p>
 
 #### Aim 3 General effect of haploinsufficiency on FC and latent component shared across CNVs and IPCs
 Linear model testing the effect of pLI scores on FC in the CNVs carriers and non-carriers population </p>
 Correlation between similarity to pLI-FC-profile and IQ, ADOS, SRS measures of each individual </p>
 ##### Scripts
-Publication_Results_FC_alteration_mC_brainmap.md </p>
-Publication_similarities_analyses.md </p>
-to_create_chord_diag.r </p>
+[Publication_Results_FC_alteration_mC_brainmap.md](https://github.com/claramoreau9/NeuropsychiatricCNVs_Connectivity/blob/master/Publication_Results_FC_alteration_mC_brainmap.md)</p>
+[Publication_similarities_analyses.md](https://github.com/claramoreau9/NeuropsychiatricCNVs_Connectivity/blob/master/Publication_similarities_analyses.md) </p>
+[to_create_chord_diag.r](https://github.com/claramoreau9/NeuropsychiatricCNVs_Connectivity/blob/master/to_create_chord_diag.r) </p>
