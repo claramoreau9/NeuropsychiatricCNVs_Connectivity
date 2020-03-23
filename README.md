@@ -2,7 +2,7 @@
 
 [Preprint on medRXiv](https://www.medrxiv.org/content/10.1101/2020.03.18.20038505v1) </p>
 
-#### Authors: Moreau Clara, Huguet Guillaume, Urchs Sebastian, et cie
+#### Authors: Moreau Clara, Huguet Guillaume, Urchs Sebastian, and colleagues
 clara.moreau@umontreal.ca
 sebastian.urchs@mail.mcgill.ca 
 
