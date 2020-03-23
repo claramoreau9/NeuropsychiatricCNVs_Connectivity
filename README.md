@@ -17,7 +17,7 @@ Neuropsychiatric CNVs showed global shifts of mean connectivity. The effect size
 <p align="justify"> We posit that deleting genes intolerant to haploinsufficiency reorganize connectivity along general dimensions irrespective of where deletions occur in the genome. This haploinsufficiency brain signature opens new avenues to understand polygenicity in psychiatric conditions and the pleiotropic effect of CNVs on cognition and risk for neuropsychiatric disorders. </p>
 
 ### Notebooks and scripts </p>
-*More code are going to be released in April 2020* </p>
+*More codes are going to be released in April 2020* </p>
 
 #### Aim 1 Characterize the impact of gene dosage on connectivity for CNVs at eight genomic loci
 
