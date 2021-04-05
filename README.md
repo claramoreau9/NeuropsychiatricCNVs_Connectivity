@@ -11,15 +11,16 @@ sebastian.urchs@mail.mcgill.ca
 ### One sentence summary: Neuropsychiatric CNVs across the genome reorganize brain connectivity architecture along dominant patterns contributing to complex idiopathic conditions.
 
 ### Abstract
-<p align="justify"> Large effect-size mutations such as copy number variants (CNVs) have the potential to provide key insights into the underlying biological mechanisms linking deleterious genetic variants to brain architecture and neuropsychiatric disorders. To date, the effect of CNVs on functional brain connectivity remains mostly unstudied, and findings are derived from analyses conducted one mutation at a time. The lack of systematic cross-CNVs comparisons hinders our understanding of any potential general mechanisms linking CNVs to effects on brain organization. </p>
-<p align="justify"> We performed connectome-wide analyses using resting-state functional MRI data from 436 carriers of neuropsychiatric CNVs at the 1q21.1, 15q11.2, 16p11.2, 22q11.2 loci, 4 “neutral effect” CNVs, 66 carriers of scarcer neuropsychiatric CNVs, 756 individuals with idiopathic autism spectrum disorder (ASD), schizophrenia, attention deficit hyperactivity disorder, and 5,377 controls.
-Neuropsychiatric CNVs showed global shifts of mean connectivity. The effect size of CNVs on relative connectivity (adjusted for the mean) was correlated with the known level of neuropsychiatric risk conferred by CNVs. Individuals with idiopathic schizophrenia and ASD had similarities in connectivity with neuropsychiatric CNVs. We reported a linear relationship between connectivity and intolerance to haploinsufficiency measured for all genes encompassed by CNVs across 18 loci. This profile involved the thalamus, the basal ganglia, somatomotor and frontoparietal networks and was correlated with lower general intelligence and higher autism severity scores. An exploratory factor analysis confirmed the contribution of these regions to three latent components shared across CNVs and neuropsychiatric disorders. </p>
-<p align="justify"> We posit that deleting genes intolerant to haploinsufficiency reorganize connectivity along general dimensions irrespective of where deletions occur in the genome. This haploinsufficiency brain signature opens new avenues to understand polygenicity in psychiatric conditions and the pleiotropic effect of CNVs on cognition and risk for neuropsychiatric disorders. </p>
+<p align="justify"> Polygenicity and pleiotropy are key genomic features of psychiatric disorders, but how they impact large-scale brain connectivity has not been investigated. 
+ </p>
+<p align="justify"> We analyzed resting-state fMRI data from 32,988 individuals to characterize the effects on functional connectivity of 16 multigenic copy number variants (CNVs), 10 polygenic scores, 6 cognitive and brain morphometry traits as well as 4 psychiatric conditions. </p>
+<p align="justify"> Effect-sizes of CNVs on connectivity were correlated with their impact on cognition but this rapidly tapered off as CNVs increased in the number of encompassed genes. Accordingly, polygenic scores had 6-fold lower effect-sizes on connectivity compared to CNVs. Pleiotropy measured by genetic and transcriptomic correlations across 38 pairs of conditions and traits showed stablesignificant concordance with connectomic correlations observed between the same conditions and traits, suggesting a substantial causal genetic component for shared connectivity.
+Despite substantial specificities, different forms of molecular risk and psychiatric conditions converged on the overconnectivity of the thalamus and somatomotor network.  </p>
 
 ### Notebooks and scripts </p>
-*More codes are going to be released in April 2020* </p>
+*More codes are going to be released in May 2021* </p>
 
-#### Aim 1 Characterize the impact of gene dosage on connectivity for CNVs at eight genomic loci
+#### Aim 1 Characterize the impact of gene dosage on connectivity for 16 multigenic copy number variants, 10 polygenic scores, 6 cognitive and brain morphometry traits, 4 psychiatric conditions.
 
 Connectome Wide Association Study: Linear model contrasting CNV carriers with controls, adjusting models for mean connectivity </p>
 ##### Scripts
