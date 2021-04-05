@@ -15,13 +15,13 @@ Despite substantial specificities, different forms of molecular risk and psychia
 ##### Notebooks
 
 [Previous notebooks from Moreau and Urchs, 2020](https://github.com/surchs/Neuropsychiatric_CNV_code_supplement) </p>
-[Interactive brainmaps]( https://claramoreau9.github.io/Braimaps_Figure1.html) </p>
+[Interactive brainmaps](https://claramoreau9.github.io/Braimaps_Figure1.html) </p> to navigate into the 19 CWAS (beta values)
 [Generate_FC_alteration_mC.md](https://github.com/claramoreau9/NeuropsychiatricCNVs_Connectivity/blob/master/Publication_Generate_FC_alteration_mC.md)</p>
 [Results_FC_alteration_mC_brainmap.md](https://github.com/claramoreau9/NeuropsychiatricCNVs_Connectivity/blob/master/Publication_Results_FC_alteration_mC_brainmap.md)</p>
 
 ##### Scripts
-[to preprocess restingstate_fMRI_data ](https://github.com/claramoreau9/NeuropsychiatricCNVs_Connectivity/blob/master/to_preprocess_restingstate_fMRI_data.m) </p>
-[to_generate_connectomes](https://github.com/claramoreau9/NeuropsychiatricCNVs_Connectivity/blob/master/to_generate_connectomes.m) </p>
-[to generate heatmaps for CellType and AHBA modules](https://github.com/claramoreau9/NeuropsychiatricCNVs_Connectivity/blob/master/Rscript_HeatMap_CellType_and_AHBAmodules.R) </p>
-[to create chord diagrams](https://github.com/claramoreau9/NeuropsychiatricCNVs_Connectivity/blob/master/to_create_chord_diag.r) </p>
+[to preprocess resting-state_fMRI_data with NIAK (.m)](https://github.com/claramoreau9/NeuropsychiatricCNVs_Connectivity/blob/master/to_preprocess_restingstate_fMRI_data.m) </p>
+[to_generate_connectomes with NIAK using MIST64 (.m)](https://github.com/claramoreau9/NeuropsychiatricCNVs_Connectivity/blob/master/to_generate_connectomes.m) </p>
+[to generate heatmaps for CellType and AHBA modules (.R)](https://github.com/claramoreau9/NeuropsychiatricCNVs_Connectivity/blob/master/Rscript_HeatMap_CellType_and_AHBAmodules.R) </p>
+[to create chord diagrams (.R)](https://github.com/claramoreau9/NeuropsychiatricCNVs_Connectivity/blob/master/to_create_chord_diag.r) </p>
 
