@@ -23,7 +23,9 @@ Despite substantial specificities, different forms of molecular risk and psychia
 
 [Gene expression analyses by K. Kumar](https://github.com/kkumar-iitkgp-livia/GeneExp_and_CNV_FCsignatures)</p>
 
-[Previous notebooks by S. Urchs and C. Moreau](https://github.com/surchs/Neuropsychiatric_CNV_code_supplement) </p>
+[Mind-GenesParallelCNV by JL Martineau](https://github.com/MartineauJeanLouis/MIND-GENESPARALLELCNV) to compute CNV calling parallel tasks in the most efficient method, in UKBiobank</p>
+
+[Previous notebooks by C. Moreau and S. Urchs](https://github.com/surchs/Neuropsychiatric_CNV_code_supplement) </p>
 
 ##### Scripts
 [to preprocess resting-state_fMRI_data with NIAK (.m)](https://github.com/claramoreau9/NeuropsychiatricCNVs_Connectivity/blob/master/to_preprocess_restingstate_fMRI_data.m) </p>
@@ -31,3 +33,5 @@ Despite substantial specificities, different forms of molecular risk and psychia
 [to generate heatmaps for CellType and AHBA modules (.R)](https://github.com/claramoreau9/NeuropsychiatricCNVs_Connectivity/blob/master/Rscript_HeatMap_CellType_and_AHBAmodules.R) </p>
 [to create chord diagrams (.R)](https://github.com/claramoreau9/NeuropsychiatricCNVs_Connectivity/blob/master/to_create_chord_diag.r) </p>
 
+####MIST ATLAS (by S.Urchs)
+[Multiscale dashboard]https://simexp.github.io/multiscale_dashboard/index.html
