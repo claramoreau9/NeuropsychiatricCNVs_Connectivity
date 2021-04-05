@@ -45,7 +45,6 @@ labels = pd.read_csv(label_p, sep=';')
 roi_labels = labels.label.values
 ```
 
-## One CNV at a time
 
 
 ```python
@@ -74,12 +73,9 @@ table_ASDcon,  table_stand_beta_ASDcon, table_qval_ASDcon = cnvfc.tools.summariz
 
 #### SAVE FC-PROFILES
 
-# ASD
+```python
 table_ASDcon.to_csv(out_p / 'cnv_ukbb_asd_vs_con_mean.tsv', sep='\t')
 table_stand_beta_ASDcon.to_csv(out_p / 'cnv_ukbb_asd_vs_con_standardized_betas_mean.tsv', sep='\t')
 table_qval_ASDcon.to_csv(out_p / 'cnv_ukbb_asd_vs_con_fdr_corrected_pvalues_mean.tsv', sep='\t')
-
-
-```python
 
 ```
