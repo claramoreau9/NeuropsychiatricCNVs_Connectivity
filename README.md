@@ -18,6 +18,10 @@ Despite substantial specificities, different forms of molecular risk and psychia
 [Generate Functional Connectivity profile (.md)](https://github.com/claramoreau9/NeuropsychiatricCNVs_Connectivity/blob/master/Publication_Generate_FC_alteration_mC.md) This notebook requests [stats.py](https://github.com/claramoreau9/NeuropsychiatricCNVs_Connectivity/blob/master/stats.py) and [tools.py](https://github.com/claramoreau9/NeuropsychiatricCNVs_Connectivity/blob/master/tools.py) </p>
 [Get CWAS Results (.md)](https://github.com/claramoreau9/NeuropsychiatricCNVs_Connectivity/blob/master/Publication_Results_FC_alteration_mC_brainmap.md) This notebook needs [stats.py](https://github.com/claramoreau9/NeuropsychiatricCNVs_Connectivity/blob/master/stats.py) and [tools.py](https://github.com/claramoreau9/NeuropsychiatricCNVs_Connectivity/blob/master/tools.py) </p>
 
+#### Results
+[FC-profiles : 36 CWAS](https://github.com/claramoreau9/NeuropsychiatricCNVs_Connectivity/tree/master/results_tables) This folder contains all the beta values / p-values / q-values (n=2080 connections) for the 36 FC-profiles.</p>
+[FC-profiles : 36 CWAS](https://github.com/claramoreau9/NeuropsychiatricCNVs_Connectivity/blob/master/df_CorrPerGene_PvalLabelShuffle_PvalBrainSmash_MIST64_THAL.xlsxs) This excel file contains correlation values for Fig6 - as well as p-values obtained with [BrainSMASH](https://www.sciencedirect.com/science/article/pii/S1053811920305243) or label-shuffling (permutation test by performing similar contrasts in 5000 randomly sampled groups).</p>
+
 #### External repositories linked to this manuscript
 [Permutation Tests by A Harvey](https://github.com/harveyaa/cross_cnv_paper_permutations) This repository contains all the scripts and notebooks for generating null models of betamaps (from this manuscript) through permutation and testing for significance.</p>
 
