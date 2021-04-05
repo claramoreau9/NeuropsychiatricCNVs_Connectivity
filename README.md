@@ -12,7 +12,7 @@ clara.moreau@umontreal.ca
 <p align="justify"> Effect-sizes of CNVs on connectivity were correlated with their impact on cognition but this rapidly tapered off as CNVs increased in the number of encompassed genes. Accordingly, polygenic scores had 6-fold lower effect-sizes on connectivity compared to CNVs. Pleiotropy measured by genetic and transcriptomic correlations across 38 pairs of conditions and traits showed stablesignificant concordance with connectomic correlations observed between the same conditions and traits, suggesting a substantial causal genetic component for shared connectivity.
 Despite substantial specificities, different forms of molecular risk and psychiatric conditions converged on the overconnectivity of the thalamus and somatomotor network.  </p>
 
-##### Notebooks
+#### Notebooks
 
 [Interactive brainmaps](https://claramoreau9.github.io/Braimaps_Figure1.html) To navigate into the 19 CWAS (beta values) using nilearn</p>
 [Generate Functional Connectivity profile (.md)](https://github.com/claramoreau9/NeuropsychiatricCNVs_Connectivity/blob/master/Publication_Generate_FC_alteration_mC.md) This notebook request [stats.py](https://github.com/claramoreau9/NeuropsychiatricCNVs_Connectivity/blob/master/stats.py) and [tools.py](https://github.com/claramoreau9/NeuropsychiatricCNVs_Connectivity/blob/master/tools.py) </p>
@@ -27,7 +27,7 @@ Despite substantial specificities, different forms of molecular risk and psychia
 
 [Previous notebooks by C. Moreau and S. Urchs](https://github.com/surchs/Neuropsychiatric_CNV_code_supplement) </p>
 
-##### Scripts
+#### Scripts
 [to preprocess resting-state_fMRI_data with NIAK (.m)](https://github.com/claramoreau9/NeuropsychiatricCNVs_Connectivity/blob/master/to_preprocess_restingstate_fMRI_data.m) </p>
 [to_generate_connectomes with NIAK using MIST64 (.m)](https://github.com/claramoreau9/NeuropsychiatricCNVs_Connectivity/blob/master/to_generate_connectomes.m) </p>
 [to generate heatmaps for CellType and AHBA modules (.R)](https://github.com/claramoreau9/NeuropsychiatricCNVs_Connectivity/blob/master/Rscript_HeatMap_CellType_and_AHBAmodules.R) </p>
