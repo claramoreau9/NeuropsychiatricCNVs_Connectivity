@@ -20,7 +20,7 @@ Despite substantial specificities, different forms of molecular risk and psychia
 
 #### Results
 [FC-profiles : 36 CWAS](https://github.com/claramoreau9/NeuropsychiatricCNVs_Connectivity/tree/master/results_tables) This folder contains all the beta values / p-values / q-values (n=2080 connections) for the 36 FC-profiles.</p>
-[FC-profiles : 36 CWAS](https://github.com/claramoreau9/NeuropsychiatricCNVs_Connectivity/blob/master/df_CorrPerGene_PvalLabelShuffle_PvalBrainSmash_MIST64_THAL.xlsxs) This excel file contains correlation values for Fig6 - as well as p-values obtained with [BrainSMASH](https://www.sciencedirect.com/science/article/pii/S1053811920305243) or label-shuffling (permutation test by performing similar contrasts in 5000 randomly sampled groups).</p>
+[Correlation values - gene expression](https://github.com/claramoreau9/NeuropsychiatricCNVs_Connectivity/blob/master/df_CorrPerGene_PvalLabelShuffle_PvalBrainSmash_MIST64_THAL.xlsxs) This excel file contains correlation values for Fig6 - as well as p-values obtained with [BrainSMASH](https://www.sciencedirect.com/science/article/pii/S1053811920305243) or label-shuffling (permutation test by performing similar contrasts in 5000 randomly sampled groups).</p>
 
 #### External repositories linked to this manuscript
 [Permutation Tests by A Harvey](https://github.com/harveyaa/cross_cnv_paper_permutations) This repository contains all the scripts and notebooks for generating null models of betamaps (from this manuscript) through permutation and testing for significance.</p>
@@ -34,8 +34,8 @@ Despite substantial specificities, different forms of molecular risk and psychia
 #### Scripts
 [to preprocess resting-state_fMRI_data with NIAK (.m)](https://github.com/claramoreau9/NeuropsychiatricCNVs_Connectivity/blob/master/to_preprocess_restingstate_fMRI_data.m) </p>
 [to_generate_connectomes with NIAK using MIST64 (.m)](https://github.com/claramoreau9/NeuropsychiatricCNVs_Connectivity/blob/master/to_generate_connectomes.m) </p>
-[to generate heatmaps for CellType and AHBA modules (.R)](https://github.com/claramoreau9/NeuropsychiatricCNVs_Connectivity/blob/master/Rscript_HeatMap_CellType_and_AHBAmodules.R) </p>
-[to create chord diagrams (.R)](https://github.com/claramoreau9/NeuropsychiatricCNVs_Connectivity/blob/master/to_create_chord_diag.r) </p>
+[to generate heatmaps for CellType and AHBA modules Fig 6 (.R)](https://github.com/claramoreau9/NeuropsychiatricCNVs_Connectivity/blob/master/Rscript_HeatMap_CellType_and_AHBAmodules.R) </p>
+[to create chord diagrams Fig 5(.R)](https://github.com/claramoreau9/NeuropsychiatricCNVs_Connectivity/blob/master/to_create_chord_diag.r) </p>
 
-#### MIST ATLAS (by S.Urchs)
-[Multiscale dashboard]https://simexp.github.io/multiscale_dashboard/index.html
+#### MIST ATLAS 
+[Multiscale dashboard](https://simexp.github.io/multiscale_dashboard/index.html)
