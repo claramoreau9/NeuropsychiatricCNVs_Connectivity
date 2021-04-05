@@ -15,6 +15,9 @@ Despite substantial specificities, different forms of molecular risk and psychia
 
 [Previous notebooks from Moreau and Urchs, 2020](https://github.com/surchs/Neuropsychiatric_CNV_code_supplement) </p>
 
+[Interactive brainmaps]( https://claramoreau9.github.io/Braimaps_Figure1.html) </p>
+
+
 Connectome Wide Association Study: Linear model contrasting CNV carriers with controls, adjusting models for mean connectivity </p>
 ##### Scripts
 
