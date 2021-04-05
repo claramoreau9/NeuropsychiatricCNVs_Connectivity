@@ -28,7 +28,7 @@ root_p = pal.Path('../../../data/')
 
 pheno_p = root_p / 'pheno/PHENO_connectomes.csv'
 
-connectome_p = root_p / 'preprocessed/connectome/all9cohorts/python/'
+connectome_p = root_p / 'preprocessed/connectome/wholedataset/python/'
 
 connectome_t = 'connectome_{}_cambridge64.npy'
 label_p = root_p / 'parcellation/Parcel_Information/MIST_64.csv'
