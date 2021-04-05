@@ -19,7 +19,7 @@ Despite substantial specificities, different forms of molecular risk and psychia
 [Get CWAS Results (.md)](https://github.com/claramoreau9/NeuropsychiatricCNVs_Connectivity/blob/master/Publication_Results_FC_alteration_mC_brainmap.md) This notebook request [stats.py](https://github.com/claramoreau9/NeuropsychiatricCNVs_Connectivity/blob/master/stats.py) and [tools.py](https://github.com/claramoreau9/NeuropsychiatricCNVs_Connectivity/blob/master/tools.py) </p>
 
 #### External repositories linked to this manuscript
-[Permutation Tests by A Harvey](https://github.com/harveyaa/cross_cnv_paper_permutations) This repository contains all the scripts and notebooks for generating null models of betamaps through permutation and testing for significance.</p>
+[Permutation Tests by A Harvey](https://github.com/harveyaa/cross_cnv_paper_permutations) This repository contains all the scripts and notebooks for generating null models of betamaps (from this manuscript) through permutation and testing for significance.</p>
 
 [Gene expression analyses by K. Kumar](https://github.com/kkumar-iitkgp-livia/GeneExp_and_CNV_FCsignatures)</p>
 
@@ -33,5 +33,5 @@ Despite substantial specificities, different forms of molecular risk and psychia
 [to generate heatmaps for CellType and AHBA modules (.R)](https://github.com/claramoreau9/NeuropsychiatricCNVs_Connectivity/blob/master/Rscript_HeatMap_CellType_and_AHBAmodules.R) </p>
 [to create chord diagrams (.R)](https://github.com/claramoreau9/NeuropsychiatricCNVs_Connectivity/blob/master/to_create_chord_diag.r) </p>
 
-####MIST ATLAS (by S.Urchs)
+#### MIST ATLAS (by S.Urchs)
 [Multiscale dashboard]https://simexp.github.io/multiscale_dashboard/index.html
