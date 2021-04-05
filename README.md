@@ -14,10 +14,16 @@ Despite substantial specificities, different forms of molecular risk and psychia
 
 ##### Notebooks
 
-[Previous notebooks from Moreau and Urchs, 2020](https://github.com/surchs/Neuropsychiatric_CNV_code_supplement) </p>
-[Interactive brainmaps](https://claramoreau9.github.io/Braimaps_Figure1.html) </p> to navigate into the 19 CWAS (beta values)
+[Interactive brainmaps](https://claramoreau9.github.io/Braimaps_Figure1.html) </p> To navigate into the 19 CWAS (beta values)
 [Generate_FC_alteration_mC.md](https://github.com/claramoreau9/NeuropsychiatricCNVs_Connectivity/blob/master/Publication_Generate_FC_alteration_mC.md)</p>
 [Results_FC_alteration_mC_brainmap.md](https://github.com/claramoreau9/NeuropsychiatricCNVs_Connectivity/blob/master/Publication_Results_FC_alteration_mC_brainmap.md)</p>
+
+#### Other repository relative to this manuscript
+[Permutation Tests by A Harvey](https://github.com/harveyaa/cross_cnv_paper_permutations) This repository contains all the scripts and notebooks for generating null models of betamaps through permutation and testing for significance.</p>
+
+[Gene expression analyses by K. Kumar](https://github.com/kkumar-iitkgp-livia/GeneExp_and_CNV_FCsignatures)</p>
+
+[Previous notebooks by S. Urchs and C. Moreau](https://github.com/surchs/Neuropsychiatric_CNV_code_supplement) </p>
 
 ##### Scripts
 [to preprocess resting-state_fMRI_data with NIAK (.m)](https://github.com/claramoreau9/NeuropsychiatricCNVs_Connectivity/blob/master/to_preprocess_restingstate_fMRI_data.m) </p>
