@@ -1,5 +1,5 @@
-#### Clara Moreau and Sebastian Urchs, March 2020
-##### Contact: clara.moreau@umontreal.ca , sebastian.urchs@mail.mcgill.ca 
+#### Clara Moreau and Sebastian Urchs, October 2020
+##### Contact: clara.moreau@umontreal.ca 
 
 
 ```python
