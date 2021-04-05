@@ -14,7 +14,7 @@ Despite substantial specificities, different forms of molecular risk and psychia
 
 ##### Notebooks
 
-[Interactive brainmaps](https://claramoreau9.github.io/Braimaps_Figure1.html) </p> To navigate into the 19 CWAS (beta values)
+[Interactive brainmaps](https://claramoreau9.github.io/Braimaps_Figure1.html) To navigate into the 19 CWAS (beta values) using nilearn</p>
 [Generate_FC_alteration_mC.md](https://github.com/claramoreau9/NeuropsychiatricCNVs_Connectivity/blob/master/Publication_Generate_FC_alteration_mC.md)</p>
 [Results_FC_alteration_mC_brainmap.md](https://github.com/claramoreau9/NeuropsychiatricCNVs_Connectivity/blob/master/Publication_Results_FC_alteration_mC_brainmap.md)</p>
 
