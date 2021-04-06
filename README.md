@@ -16,7 +16,7 @@ Despite substantial specificities, different forms of molecular risk and psychia
 
 #### Notebooks (still work in progess)
 
-[Interactive brainmaps](https://claramoreau9.github.io/Braimaps_Github.html) To navigate into the 36 CWAS (beta values) using nilearn</p>
+[Interactive brainmaps](https://claramoreau9.github.io/Braimaps_Github.html) To navigate into the 36 CWAS results (beta values reported on brain maps for each FC-Profiles, before and after global signal adjustement) using [nilearn](https://www.frontiersin.org/articles/10.3389/fninf.2014.00014/full)</p>
 [Generate Functional Connectivity profile (.md)](https://github.com/claramoreau9/NeuropsychiatricCNVs_Connectivity/blob/master/Publication_Generate_FC_alteration_mC.md) This notebook requests [stats.py](https://github.com/claramoreau9/NeuropsychiatricCNVs_Connectivity/blob/master/stats.py) and [tools.py](https://github.com/claramoreau9/NeuropsychiatricCNVs_Connectivity/blob/master/tools.py) </p>
 [Get CWAS Results (.md)](https://github.com/claramoreau9/NeuropsychiatricCNVs_Connectivity/blob/master/Publication_Results_FC_alteration_mC_brainmap.md) This notebook needs [stats.py](https://github.com/claramoreau9/NeuropsychiatricCNVs_Connectivity/blob/master/stats.py) and [tools.py](https://github.com/claramoreau9/NeuropsychiatricCNVs_Connectivity/blob/master/tools.py) </p>
 
