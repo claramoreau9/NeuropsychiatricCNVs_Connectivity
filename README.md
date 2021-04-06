@@ -14,7 +14,7 @@ clara.moreau@umontreal.ca
 <p> Despite substantial heterogeneity, different forms of molecular risk and psychiatric conditions converged on overconnectivity of the thalamus and somatomotor networks.
 Despite substantial specificities, different forms of molecular risk and psychiatric conditions converged on the overconnectivity of the thalamus and somatomotor network.  </p>
 
-#### Notebooks
+#### Notebooks (still work in progess)
 
 [Interactive brainmaps](https://claramoreau9.github.io/Braimaps_Github.html) To navigate into the 19 CWAS (beta values) using nilearn</p>
 [Generate Functional Connectivity profile (.md)](https://github.com/claramoreau9/NeuropsychiatricCNVs_Connectivity/blob/master/Publication_Generate_FC_alteration_mC.md) This notebook requests [stats.py](https://github.com/claramoreau9/NeuropsychiatricCNVs_Connectivity/blob/master/stats.py) and [tools.py](https://github.com/claramoreau9/NeuropsychiatricCNVs_Connectivity/blob/master/tools.py) </p>
