@@ -1,33 +1,26 @@
-## Atlas of functional connectivity relationships across rare and common genetic variants, traits, and psychiatric conditions
+## Genetic heterogeneity shapes brain connectivity in psychiatry
 
-#### Authors: Clara A Moreau, Kumar Kuldeep, Annabelle Harvey, ...
+#### Authors: Clara A Moreau, Annabelle Harvey, Kumar Kuldeep,...
 clara.moreau@umontreal.ca
 
-#### Last authors: Bellec Pierre, and Jacquemont Sebastien 
-
-### Abstract
-<p align="justify"> Polygenicity and pleiotropy are key genomic features of psychiatric disorders, but how they impact large-scale brain connectivity has not been investigated. 
- </p>
-<p align="justify"> We analyzed resting-state fMRI data from 32,988 individuals to characterize the effects on functional connectivity of 16 multigenic copy number variants (CNVs), 10 polygenic scores, 6 cognitive and brain morphometry traits as well as 4 psychiatric conditions. 
- </p>
-<p align="justify"> Although effect-sizes of CNVs on connectivity were correlated to cognition -and number of genes-, increasing polygenicity was associated with decreasing effect-sizes on connectivity. Accordingly, polygenic scores had 6-fold lower effect-sizes on connectivity compared to CNVs. Pleiotropy measured by genetic and transcriptomic correlations across 38 pairs of conditions and traits showed significant concordance with connectomic correlations, suggesting a substantial causal genetic component for shared connectivity.</p>
-<p> Despite substantial heterogeneity, different forms of molecular risk and psychiatric conditions converged on overconnectivity of the thalamus and somatomotor networks.
-Despite substantial specificities, different forms of molecular risk and psychiatric conditions converged on the overconnectivity of the thalamus and somatomotor network.  </p>
+#### Last authors: Bellec Pierre and Jacquemont Sebastien 
 
 #### Notebooks (still work in progess)
 
-[Interactive brainmaps](https://claramoreau9.github.io/Braimaps_Github.html) To navigate into the 36 CWAS results (beta values reported on brain maps for each FC-Profiles, before and after global signal adjustement) using [nilearn](https://www.frontiersin.org/articles/10.3389/fninf.2014.00014/full)</p>
+[Interactive brainmaps](https://claramoreau9.github.io/Braimaps_Github.html) To navigate into the 29 CWAS results (beta values reported on brain maps for each FC-Profiles, before and after global signal adjustement) using [nilearn](https://www.frontiersin.org/articles/10.3389/fninf.2014.00014/full)</p>
 [Generate Functional Connectivity profile (.md)](https://github.com/claramoreau9/NeuropsychiatricCNVs_Connectivity/blob/master/Publication_Generate_FC_alteration_mC.md) This notebook requests [stats.py](https://github.com/claramoreau9/NeuropsychiatricCNVs_Connectivity/blob/master/stats.py) and [tools.py](https://github.com/claramoreau9/NeuropsychiatricCNVs_Connectivity/blob/master/tools.py) </p>
 [Get CWAS Results (.md)](https://github.com/claramoreau9/NeuropsychiatricCNVs_Connectivity/blob/master/Publication_Results_FC_alteration_mC_brainmap.md) This notebook needs [stats.py](https://github.com/claramoreau9/NeuropsychiatricCNVs_Connectivity/blob/master/stats.py) and [tools.py](https://github.com/claramoreau9/NeuropsychiatricCNVs_Connectivity/blob/master/tools.py) </p>
 
 #### Results
-[FC-profiles : 36 CWAS](https://github.com/claramoreau9/NeuropsychiatricCNVs_Connectivity/tree/master/results_tables) This folder contains all the beta values / p-values / q-values (n=2080 connections) for the 36 FC-profiles.</p>
+[FC-profiles : 29 CWAS](https://github.com/claramoreau9/NeuropsychiatricCNVs_Connectivity/tree/master/results_tables) This folder contains all the beta values / p-values / q-values (n=2080 connections) for the 29 FC-profiles.</p>
 [Correlation values - gene expression](https://github.com/claramoreau9/NeuropsychiatricCNVs_Connectivity/blob/master/df_CorrPerGene_PvalLabelShuffle_PvalBrainSmash_MIST64_THAL.xlsxs) This excel file contains correlation values for Fig6 - as well as p-values obtained with [BrainSMASH](https://www.sciencedirect.com/science/article/pii/S1053811920305243) or label-shuffling (permutation test by performing similar contrasts in 5000 randomly sampled groups).</p>
 
 #### External repositories linked to this manuscript
-[Permutation Tests by A Harvey](https://github.com/harveyaa/cross_cnv_paper_permutations) This repository contains all the scripts and notebooks for generating null models of betamaps (from this manuscript) through permutation and testing for significance.</p>
+[Permutation Tests and cross-validations by A Harvey](https://github.com/harveyaa/cross_cnv_paper_permutations) This repository contains all the scripts and notebooks for generating null models of betamaps (from this manuscript) through permutation and testing for significance.</p>
 
-[Gene expression analyses by K. Kumar](https://github.com/kkumar-iitkgp-livia/GeneExp_and_CNV_FCsignatures)</p>
+
+
+%%[Gene expression analyses by K. Kumar](https://github.com/kkumar-iitkgp-livia/GeneExp_and_CNV_FCsignatures)</p>
 
 [Mind-GenesParallelCNV by JL Martineau](https://github.com/MartineauJeanLouis/MIND-GENESPARALLELCNV) to compute CNV calling parallel tasks in the most efficient method, in UKBiobank</p>
 
