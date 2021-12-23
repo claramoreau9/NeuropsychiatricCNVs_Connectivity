@@ -5,7 +5,7 @@ clara.moreau@umontreal.ca
 
 #### Last authors: Bellec Pierre and Jacquemont Sebastien 
 
-#### Notebooks (still work in progess)
+#### Notebooks
 
 [Interactive brainmaps](https://claramoreau9.github.io/Braimaps_Github.html) To navigate into the 29 CWAS results (beta values reported on brain maps for each FC-Profiles, before and after global signal adjustement) using [nilearn](https://www.frontiersin.org/articles/10.3389/fninf.2014.00014/full)</p>
 [Generate Functional Connectivity profile (.md)](https://github.com/claramoreau9/NeuropsychiatricCNVs_Connectivity/blob/master/Publication_Generate_FC_alteration_mC.md) This notebook requests [stats.py](https://github.com/claramoreau9/NeuropsychiatricCNVs_Connectivity/blob/master/stats.py) and [tools.py](https://github.com/claramoreau9/NeuropsychiatricCNVs_Connectivity/blob/master/tools.py) </p>
@@ -13,14 +13,10 @@ clara.moreau@umontreal.ca
 
 #### Results
 [FC-profiles : 29 CWAS](https://github.com/claramoreau9/NeuropsychiatricCNVs_Connectivity/tree/master/results_tables) This folder contains all the beta values / p-values / q-values (n=2080 connections) for the 29 FC-profiles.</p>
-[Correlation values - gene expression](https://github.com/claramoreau9/NeuropsychiatricCNVs_Connectivity/blob/master/df_CorrPerGene_PvalLabelShuffle_PvalBrainSmash_MIST64_THAL.xlsxs) This excel file contains correlation values for Fig6 - as well as p-values obtained with [BrainSMASH](https://www.sciencedirect.com/science/article/pii/S1053811920305243) or label-shuffling (permutation test by performing similar contrasts in 5000 randomly sampled groups).</p>
 
 #### External repositories linked to this manuscript
 [Permutation Tests and cross-validations by A Harvey](https://github.com/harveyaa/cross_cnv_paper_permutations) This repository contains all the scripts and notebooks for generating null models of betamaps (from this manuscript) through permutation and testing for significance.</p>
 
-
-
-%%[Gene expression analyses by K. Kumar](https://github.com/kkumar-iitkgp-livia/GeneExp_and_CNV_FCsignatures)</p>
 
 [Mind-GenesParallelCNV by JL Martineau](https://github.com/MartineauJeanLouis/MIND-GENESPARALLELCNV) to compute CNV calling parallel tasks in the most efficient method, in UKBiobank</p>
 
